@@ -1,6 +1,6 @@
 # nix-config-wallpapers
 
-Wallpaper collection for use with my [nix-config](https://github.com/yunfachi/nix-config).
+Wallpaper collection for use in my [nix-config](https://github.com/yunfachi/nix-config).
 
 ## Credits
 
