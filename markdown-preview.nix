@@ -9,7 +9,7 @@
     else null;
 
   toPairs = attrset:
-    builtins.map (key: "![](./images/${getFileNameWithExtension key})<br>**tags**:${builtins.concatStringsSep ", " attrset.${key}.tags}")
+    builtins.map (key: "![](./images/${getFileNameWithExtension key})<br>**tags**: ${builtins.concatStringsSep ", " attrset.${key}.tags}")
     (builtins.attrNames attrset);
 
   pairs = toPairs wallpapers;
