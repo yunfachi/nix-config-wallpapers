@@ -6,11 +6,13 @@ Wallpaper collection for use in my [nix-config](https://github.com/yunfachi/nix-
 
 - [Pixiv: 焦茶](https://www.pixiv.net/en/users/12845810)
 - [Pixiv: あきま](https://www.pixiv.net/en/users/19301797)
+- [Pixiv: いちご飴](https://www.pixiv.net/en/users/33886650)
+- [Pixiv: トーコ](https://www.pixiv.net/en/users/8356367)
 - Various contributors from [Wallhaven](https://wallhaven.cc)
 
 ## Preview
 <!-- AUTO UPDATE START -->
-|total wallpapers: 123|||
+|total wallpapers: 137|||
 |-|-|-|
 |![](./images/112923224_p1.jpg)<br>**tags**: akima, gray, girl, portrait, rainy|![](./images/58288977_p0.png)<br>**tags**: akima, light, furutistic, girl|![](./images/60858814_p0.png)<br>**tags**: akima, yellow, sunrise, futuristic, city, girl|
 |![](./images/61368190_p0.jpg)<br>**tags**: jiao_cha, light, mountains, shade, girl|![](./images/62031907_p0.png)<br>**tags**: akima, blue, night, city, girl|![](./images/62454928_p0.png)<br>**tags**: akima, blue, night, girl|
@@ -24,12 +26,18 @@ Wallpaper collection for use in my [nix-config](https://github.com/yunfachi/nix-
 |![](./images/70022444_p0.jpg)<br>**tags**: jiao_cha, dark, light, shade, girl, portrait|![](./images/70022600_p0.jpg)<br>**tags**: jiao_cha, blue, sky, shade, girl|![](./images/70123969_p0.jpg)<br>**tags**: jiao_cha, blue, sky, shade, girl, portrait|
 |![](./images/70265599_p0.jpg)<br>**tags**: jiao_cha, blue, orange, sky, shade, girl|![](./images/71295163_p0.jpg)<br>**tags**: jiao_cha, blue, shade, girl|![](./images/72038523_p0.jpg)<br>**tags**: jiao_cha, blue, shade, girl|
 |![](./images/72109603_p0.jpg)<br>**tags**: jiao_cha, light, shade, girl, portrait|![](./images/72312706_p0.jpg)<br>**tags**: jiao_cha, yellow, shade, girl, night|![](./images/72514196_p0.png)<br>**tags**: akima, dark, sunset, girl, window, city|
-|![](./images/72599030_p0.jpg)<br>**tags**: jiao_cha, light, shade, girl, portrait|![](./images/73710499_p0.png)<br>**tags**: akima, yellow, sunset, rainy, girl, city|![](./images/74075845_p0.png)<br>**tags**: jiao_cha, blue, sky, futuristic, road, shade, girl|
+|![](./images/72599030_p0.jpg)<br>**tags**: jiao_cha, light, shade, girl, portrait|![](./images/72839713_p0.jpg)<br>**tags**: ichigoame, blue, pink, dark, underwater, indoor, girl, shade|![](./images/73114426_p0.jpg)<br>**tags**: ichigoame, blue, light, underwater, sky, girl, shade|
+|![](./images/73496746_p0.png)<br>**tags**: ichigoame, blue, dark, underwater, indoor, girl, shade|![](./images/73710499_p0.png)<br>**tags**: akima, yellow, sunset, rainy, girl, city|![](./images/74075845_p0.png)<br>**tags**: jiao_cha, blue, sky, futuristic, road, shade, girl|
 |![](./images/74125530_p0.png)<br>**tags**: akima, gray, light, ruins, girl|![](./images/74851178_p0.png)<br>**tags**: jiao_cha, blue, sky, nature, shade, girl|![](./images/75102868_p0.png)<br>**tags**: jiao_cha, blue, shade, girl, nature|
 |![](./images/75188095_p0.png)<br>**tags**: jiao_cha, orange, indoor, shade, girl, portrait|![](./images/76079630_p0.png)<br>**tags**: akima, gray, girl, portrait, indoor|![](./images/76205846_p0.png)<br>**tags**: akima, blue, girl, portrait, indoor|
-|![](./images/76721553_p0.png)<br>**tags**: akima, gray, indoor, girl, window, sunset, cloudy|![](./images/77545409_p0.jpg)<br>**tags**: akima, gray, indoor, girl, futuristic|![](./images/78145165_p0.jpg)<br>**tags**: jiao_cha, pink, shade, girl, portrait|
-|![](./images/78145222_p0.jpg)<br>**tags**: jiao_cha, orange, indoor, shade, girl, portrait|![](./images/78145235_p0.jpg)<br>**tags**: jiao_cha, pink, shade, girl, portrait|![](./images/78345825_p0.png)<br>**tags**: akima, yellow, girl, portrait, city, futuristic|
-|![](./images/78417838_p0.jpg)<br>**tags**: jiao_cha, blue, shade, girl, portrait|![](./images/81754094_p0.jpg)<br>**tags**: jiao_cha, orange, indoor, shade, girl|![](./images/90877153_p0.png)<br>**tags**: akima, gray, light, sky, girl, futuristic|
+|![](./images/76721553_p0.png)<br>**tags**: akima, gray, indoor, girl, window, sunset, cloudy|![](./images/77545409_p0.jpg)<br>**tags**: akima, gray, indoor, girl, futuristic|![](./images/77816288_p0.jpg)<br>**tags**: ichigoame, light, underwater, town, sky, girl, shade, noise|
+|![](./images/78048426_p0.jpg)<br>**tags**: touko, purple, pink, city, girl, shade, sky|![](./images/78145165_p0.jpg)<br>**tags**: jiao_cha, pink, shade, girl, portrait|![](./images/78145222_p0.jpg)<br>**tags**: jiao_cha, orange, indoor, shade, girl, portrait|
+|![](./images/78145235_p0.jpg)<br>**tags**: jiao_cha, pink, shade, girl, portrait|![](./images/78345825_p0.png)<br>**tags**: akima, yellow, girl, portrait, city, futuristic|![](./images/78417838_p0.jpg)<br>**tags**: jiao_cha, blue, shade, girl, portrait|
+|![](./images/79826536_p0.jpg)<br>**tags**: ichigoame, pink, light, underwater, indoor, girl, cat, shade, noise|![](./images/79826595_p0.jpg)<br>**tags**: ichigoame, blue, pink, light, underwater, indoor, girl, portrait, shade, noise|![](./images/81754094_p0.jpg)<br>**tags**: jiao_cha, orange, indoor, shade, girl|
+|![](./images/83170753_p0.png)<br>**tags**: ichigoame, blue, light, underwater, ruins, sky, girl, shade|![](./images/83319109_p0.jpg)<br>**tags**: touko, blue, light, shade, girl|![](./images/83647245_p0.png)<br>**tags**: ichigoame, blue, underwater, sky, girl, shade|
+|![](./images/83980769_p0.jpg)<br>**tags**: touko, blue, gray, sky, underwater, girl, portrait, shade|![](./images/84684220_p0.jpg)<br>**tags**: touko, orange, dark, night, girl, shade|![](./images/84719437_p0.jpg)<br>**tags**: ichigoame, blue, underwater, girl, shade|
+|![](./images/85626613_p0.jpg)<br>**tags**: ichigoame, blue, underwater, indoor, girl, shade|![](./images/85850753_p0.jpg)<br>**tags**: ichigoame, blue, underwater, indoor, girl, portrait, shade|![](./images/86156219_p0.jpg)<br>**tags**: ichigoame, purple, pink, underwater, indoor, girl, portrait, shade|
+|![](./images/87422469_p0.jpg)<br>**tags**: touko, blue, light, sky, underwater, girl, portrait, shade|![](./images/90877153_p0.png)<br>**tags**: akima, gray, light, sky, girl, futuristic|![](./images/92786671_p0.jpg)<br>**tags**: ichigoame, blue, underwater, indoor, girl, shade|
 |![](./images/99746284_p0.jpg)<br>**tags**: akima, gray, girl, portrait|![](./images/unknown-2dcWLKO.jpeg)<br>**tags**: light, girl, portrait|![](./images/unknown-905219.png)<br>**tags**: girls_last_tour, blue, dark, rainy|
 |![](./images/wallhaven-0jxlow.jpg)<br>**tags**: green, nature, forest|![](./images/wallhaven-0wy27r.jpg)<br>**tags**: blue, indoor, window|![](./images/wallhaven-13xxjg.jpg)<br>**tags**: green, nature, town|
 |![](./images/wallhaven-1k2y73.jpg)<br>**tags**: yellow, sunrise, girl, portrait|![](./images/wallhaven-1pdwow.jpg)<br>**tags**: girls_last_tour, blue, light, girl, portrait, futuristic|![](./images/wallhaven-2e5yvm.jpg)<br>**tags**: green, indoor, girl|
@@ -37,20 +45,19 @@ Wallpaper collection for use in my [nix-config](https://github.com/yunfachi/nix-
 |![](./images/wallhaven-42k9vy.png)<br>**tags**: green, gray, nature, city, rainy|![](./images/wallhaven-4791zy.jpg)<br>**tags**: green, nature, forest|![](./images/wallhaven-49wj8w.png)<br>**tags**: blue, girl, minimalistic, railings, portrait|
 |![](./images/wallhaven-4dgl7m.jpg)<br>**tags**: blue, city, futuristic, detailed, girl|![](./images/wallhaven-57l6v1.jpg)<br>**tags**: blue, twilight, girl, town, rainy, road|![](./images/wallhaven-6qzg1x.png)<br>**tags**: blue, sky, city|
 |![](./images/wallhaven-73d1e3.jpg)<br>**tags**: blue, girl, portrait, sky|![](./images/wallhaven-76gkey.jpg)<br>**tags**: blue, girl, window|![](./images/wallhaven-76qoov.png)<br>**tags**: detailed, city|
-|![](./images/wallhaven-85k2lj.jpg)<br>**tags**: green, nature, forest|![](./images/wallhaven-8o3zqk.jpg)<br>**tags**: blue, light, sky, girl, portrait|![](./images/wallhaven-8ozzxk.jpg)<br>**tags**: blue, green, sky, nature, mountains|
-|![](./images/wallhaven-8x16mo.png)<br>**tags**: blue, dark, night, city, snowy|![](./images/wallhaven-8x6lxo.jpg)<br>**tags**: blue, dark, night, girl, portrait|![](./images/wallhaven-96l5xd.png)<br>**tags**: green, nature, forest, man|
-|![](./images/wallhaven-96y9qk.jpg)<br>**tags**: blue, night, nature|![](./images/wallhaven-d5qwmo.jpg)<br>**tags**: blue, futuristic, sky, girl|![](./images/wallhaven-dg15oj.jpg)<br>**tags**: blue, light, shade, girl|
-|![](./images/wallhaven-dgdmol.jpg)<br>**tags**: blue, town, detailed|![](./images/wallhaven-e72j28.jpg)<br>**tags**: gray, city, rainy|![](./images/wallhaven-g8rkml.png)<br>**tags**: blue, green, sky, ruins, girl|
-|![](./images/wallhaven-gjooee.jpg)<br>**tags**: girls_last_tour, orange, girl, portrait, indoor|![](./images/wallhaven-gpq337.jpg)<br>**tags**: green, forest|![](./images/wallhaven-gpqypd.jpg)<br>**tags**: green, forest, nature|
-|![](./images/wallhaven-j5g6ry.jpg)<br>**tags**: gray, ruins, rainy, girl|![](./images/wallhaven-l36zrl.png)<br>**tags**: blue, town, girl, sky, nature|![](./images/wallhaven-lmey7y.jpg)<br>**tags**: orange, dark, night, girl, shade|
+|![](./images/wallhaven-85k2lj.jpg)<br>**tags**: green, nature, forest|![](./images/wallhaven-8ozzxk.jpg)<br>**tags**: blue, green, sky, nature, mountains|![](./images/wallhaven-8x16mo.png)<br>**tags**: blue, dark, night, city, snowy|
+|![](./images/wallhaven-8x6lxo.jpg)<br>**tags**: blue, dark, night, girl, portrait|![](./images/wallhaven-96l5xd.png)<br>**tags**: green, nature, forest, man|![](./images/wallhaven-96y9qk.jpg)<br>**tags**: blue, night, nature|
+|![](./images/wallhaven-d5qwmo.jpg)<br>**tags**: blue, futuristic, sky, girl|![](./images/wallhaven-dgdmol.jpg)<br>**tags**: blue, town, detailed|![](./images/wallhaven-e72j28.jpg)<br>**tags**: gray, city, rainy|
+|![](./images/wallhaven-g8rkml.png)<br>**tags**: blue, green, sky, ruins, girl|![](./images/wallhaven-gjooee.jpg)<br>**tags**: girls_last_tour, orange, girl, portrait, indoor|![](./images/wallhaven-gpq337.jpg)<br>**tags**: green, forest|
+|![](./images/wallhaven-gpqypd.jpg)<br>**tags**: green, forest, nature|![](./images/wallhaven-j5g6ry.jpg)<br>**tags**: gray, ruins, rainy, girl|![](./images/wallhaven-l36zrl.png)<br>**tags**: blue, town, girl, sky, nature|
 |![](./images/wallhaven-lnzv49.jpg)<br>**tags**: yellow, dark, night, detailed, city, futuristic|![](./images/wallhaven-md2xlk.jpg)<br>**tags**: green, city, ruins|![](./images/wallhaven-ne9exw.jpg)<br>**tags**: blue, dark, ruins, city|
 |![](./images/wallhaven-nm2d80.jpg)<br>**tags**: blue, window, sky|![](./images/wallhaven-nmkwk0.jpg)<br>**tags**: detailed, futuristic, city|![](./images/wallhaven-nrxwv1.png)<br>**tags**: gray, city, road, rainy|
 |![](./images/wallhaven-nzjv7o.jpg)<br>**tags**: gray, girl, city, window, portrait|![](./images/wallhaven-o3j2x5.jpg)<br>**tags**: gray, nature, girl, portrait, rainy|![](./images/wallhaven-odkykm.jpg)<br>**tags**: ping, dark, sunset, girl|
 |![](./images/wallhaven-oxpgl9.png)<br>**tags**: blue, sky, girl|![](./images/wallhaven-p2le2p.jpg)<br>**tags**: green, futuristic, detailed, ruins|![](./images/wallhaven-pkeg53.jpg)<br>**tags**: girls_last_tour, gray, city, ruins, girl, portrait|
-|![](./images/wallhaven-q23q85.jpg)<br>**tags**: pink, sky, town, majestic|![](./images/wallhaven-q68rvl.jpg)<br>**tags**: pink, city, girl, shade, sky|![](./images/wallhaven-qdxpjd.jpg)<br>**tags**: girls_last_tour, dark, girl|
-|![](./images/wallhaven-qz21l7.jpg)<br>**tags**: green, light, nature, forest, town, majestic|![](./images/wallhaven-r2y5dj.jpg)<br>**tags**: blue, light, city, sky, sunrise|![](./images/wallhaven-vgd3gl.jpg)<br>**tags**: green, city, ruins|
-|![](./images/wallhaven-wq59xx.jpg)<br>**tags**: blue, nature, sky, town, road|![](./images/wallhaven-x1851d.jpg)<br>**tags**: pink, city, detailed, rainy|![](./images/wallhaven-x1rkev.jpg)<br>**tags**: girls_last_tour, light, snowy, girl|
-|![](./images/wallhaven-x65x6d.jpg)<br>**tags**: girls_last_tour, light, minimalistic, girl, portrait|![](./images/wallhaven-x8922o.jpg)<br>**tags**: blue, sky, futuristic, detailed, nature|![](./images/wallhaven-y8y15x.jpg)<br>**tags**: blue, girl, sky, city|
-|![](./images/wallhaven-ym9zzg.jpg)<br>**tags**: gray, girl, portrait, town, road, cloudy|![](./images/wallhaven-ymm6kl.png)<br>**tags**: girls_last_tour, dark, detailed, girl, indoor|![](./images/wallhaven-yxedxg.jpg)<br>**tags**: green, nature, forest|
-|![](./images/wallhaven-z8pm7y.png)<br>**tags**: blue, nature, sky, girl, minimalistic|![](./images/wallhaven-z8zgqw.jpg)<br>**tags**: green, nature, sky, mountains|![](./images/wallhaven-zxr3rg.png)<br>**tags**: light, detailed, road|
+|![](./images/wallhaven-q23q85.jpg)<br>**tags**: pink, sky, town, majestic|![](./images/wallhaven-qdxpjd.jpg)<br>**tags**: girls_last_tour, dark, girl|![](./images/wallhaven-qz21l7.jpg)<br>**tags**: green, light, nature, forest, town, majestic|
+|![](./images/wallhaven-r2y5dj.jpg)<br>**tags**: blue, light, city, sky, sunrise|![](./images/wallhaven-vgd3gl.jpg)<br>**tags**: green, city, ruins|![](./images/wallhaven-wq59xx.jpg)<br>**tags**: blue, nature, sky, town, road|
+|![](./images/wallhaven-x1851d.jpg)<br>**tags**: pink, city, detailed, rainy|![](./images/wallhaven-x1rkev.jpg)<br>**tags**: girls_last_tour, light, snowy, girl|![](./images/wallhaven-x65x6d.jpg)<br>**tags**: girls_last_tour, light, minimalistic, girl, portrait|
+|![](./images/wallhaven-x8922o.jpg)<br>**tags**: blue, sky, futuristic, detailed, nature|![](./images/wallhaven-y8y15x.jpg)<br>**tags**: blue, girl, sky, city|![](./images/wallhaven-ym9zzg.jpg)<br>**tags**: gray, girl, portrait, town, road, cloudy|
+|![](./images/wallhaven-ymm6kl.png)<br>**tags**: girls_last_tour, dark, detailed, girl, indoor|![](./images/wallhaven-yxedxg.jpg)<br>**tags**: green, nature, forest|![](./images/wallhaven-z8pm7y.png)<br>**tags**: blue, nature, sky, girl, minimalistic|
+|![](./images/wallhaven-z8zgqw.jpg)<br>**tags**: green, nature, sky, mountains|![](./images/wallhaven-zxr3rg.png)<br>**tags**: light, detailed, road|
 <!-- AUTO UPDATE END -->

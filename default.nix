@@ -49,8 +49,6 @@ in {
   wallhaven-g8rkml = ["blue" "green" "sky" "ruins" "girl"];
   wallhaven-0wy27r = ["blue" "indoor" "window"];
   wallhaven-r2y5dj = ["blue" "light" "city" "sky" "sunrise"];
-  wallhaven-dg15oj = ["blue" "light" "shade" "girl"];
-  wallhaven-8o3zqk = ["blue" "light" "sky" "girl" "portrait"];
   wallhaven-z8pm7y = ["blue" "nature" "sky" "girl" "minimalistic"];
   wallhaven-wq59xx = ["blue" "nature" "sky" "town" "road"];
   wallhaven-96y9qk = ["blue" "night" "nature"];
@@ -94,6 +92,19 @@ in {
   wallhaven-yxedxg = ["green" "nature" "forest"];
   wallhaven-z8zgqw = ["green" "nature" "sky" "mountains"];
   wallhaven-13xxjg = ["green" "nature" "town"];
+  "73496746_p0" = ["ichigoame" "blue" "dark" "underwater" "indoor" "girl" "shade"];
+  "83170753_p0" = ["ichigoame" "blue" "light" "underwater" "ruins" "sky" "girl" "shade"];
+  "73114426_p0" = ["ichigoame" "blue" "light" "underwater" "sky" "girl" "shade"];
+  "72839713_p0" = ["ichigoame" "blue" "pink" "dark" "underwater" "indoor" "girl" "shade"];
+  "79826595_p0" = ["ichigoame" "blue" "pink" "light" "underwater" "indoor" "girl" "portrait" "shade" "noise"];
+  "84719437_p0" = ["ichigoame" "blue" "underwater" "girl" "shade"];
+  "85850753_p0" = ["ichigoame" "blue" "underwater" "indoor" "girl" "portrait" "shade"];
+  "92786671_p0" = ["ichigoame" "blue" "underwater" "indoor" "girl" "shade"];
+  "85626613_p0" = ["ichigoame" "blue" "underwater" "indoor" "girl" "shade"];
+  "83647245_p0" = ["ichigoame" "blue" "underwater" "sky" "girl" "shade"];
+  "77816288_p0" = ["ichigoame" "light" "underwater" "town" "sky" "girl" "shade" "noise"];
+  "79826536_p0" = ["ichigoame" "pink" "light" "underwater" "indoor" "girl" "cat" "shade" "noise"];
+  "86156219_p0" = ["ichigoame" "purple" "pink" "underwater" "indoor" "girl" "portrait" "shade"];
   "65605301_p0" = ["jiao_cha" "blue" "indoor" "window" "shade" "girl"];
   "69864024_p0" = ["jiao_cha" "blue" "light" "shade" "girl" "portrait"];
   "70265599_p0" = ["jiao_cha" "blue" "orange" "sky" "shade" "girl"];
@@ -127,12 +138,15 @@ in {
   "68304229_p0" = ["jiao_cha" "yellow" "shade" "girl" "portrait"];
   wallhaven-zxr3rg = ["light" "detailed" "road"];
   unknown-2dcWLKO = ["light" "girl" "portrait"];
-  wallhaven-lmey7y = ["orange" "dark" "night" "girl" "shade"];
   wallhaven-odkykm = ["ping" "dark" "sunset" "girl"];
   wallhaven-x1851d = ["pink" "city" "detailed" "rainy"];
-  wallhaven-q68rvl = ["pink" "city" "girl" "shade" "sky"];
   wallhaven-3zev16 = ["pink" "dark" "city" "indoor" "girl" "ruins"];
   wallhaven-q23q85 = ["pink" "sky" "town" "majestic"];
+  "83980769_p0" = ["touko" "blue" "gray" "sky" "underwater" "girl" "portrait" "shade"];
+  "83319109_p0" = ["touko" "blue" "light" "shade" "girl"];
+  "87422469_p0" = ["touko" "blue" "light" "sky" "underwater" "girl" "portrait" "shade"];
+  "84684220_p0" = ["touko" "orange" "dark" "night" "girl" "shade"];
+  "78048426_p0" = ["touko" "purple" "pink" "city" "girl" "shade" "sky"];
   wallhaven-lnzv49 = ["yellow" "dark" "night" "detailed" "city" "futuristic"];
   wallhaven-1k2y73 = ["yellow" "sunrise" "girl" "portrait"];
 }
